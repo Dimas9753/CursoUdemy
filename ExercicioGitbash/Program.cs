@@ -13,6 +13,8 @@ namespace ExercicioGitbash
             Console.WriteLine("Ola mundo!");
             Console.WriteLine("Teste no GitBash!");
             Console.WriteLine("Teste segundo commit");
+            Console.WriteLine("Teste terceiro commit");
+            Console.WriteLine("Teste quarto commit");
         }
     }
 }
