@@ -12,6 +12,7 @@ namespace ExercicioGitbash
         {
             Console.WriteLine("Ola mundo!");
             Console.WriteLine("Teste no GitBash!");
+            Console.WriteLine("Teste segundo commit");
         }
     }
 }
